@@ -8,3 +8,6 @@ This Analysis is completely performed using python , which tells about the patte
 4.Seaborn,
 5.Plotly,
 6.Altair
+
+# Feel Free to add your own analysis by downloading the .ipynb file and running it on Visual Studio code or use jupyter lab from anaconda software.
+# The data set has also been attached in case if you wanna refer to it.🦾 Have FUN😁
