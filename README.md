@@ -2,9 +2,9 @@
 This Analysis is completely performed using python , which tells about the pattern of sales of fuel type sold in a particular year, trendline of fuels which can used to predict the sales of the future. This is just a brief of the project. Do check it out!!!
 
 # Required libraries
-1.Pandas
-2.numpy
-3.matplotlib
-4.seaborn
-5.plotly
-6.altair
+1.Pandas,
+2.Numpy,
+3.Matplotlib,
+4.Seaborn,
+5.Plotly,
+6.Altair
